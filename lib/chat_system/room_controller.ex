@@ -1,4 +1,4 @@
-defmodule ChatSystem.RoomCollection do
+defmodule ChatSystem.RoomController do
   use GenServer
 
   def start_link do
